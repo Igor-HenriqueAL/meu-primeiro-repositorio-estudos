@@ -1,0 +1,8 @@
+NESTA FASE APRENDI SOBRE GIT E GITHUB 
+
+
+Entendi para que serve o Git e a criar um repositorio como github.
+
+link para dowload do Git: https://gitforwindows.org/
+
+link para acessar o GitHub: https://github.com/
